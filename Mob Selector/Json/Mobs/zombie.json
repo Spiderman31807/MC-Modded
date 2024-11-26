@@ -1,0 +1,19 @@
+{
+  "typeTags": [],
+  "immuneTypeTags": [],
+  "immuneTypes": [
+    "minecraft:damage_type; minecraft:drown"
+  ],
+  "allies": [],
+  "functions": [],
+  "flying": false,
+  "canFly": false,
+  "canSprint": false,
+  "canSwim": true,
+  "canGlide": true,
+  "waterSensitive": false,
+  "sunSensitive": true,
+  "maxHealth": 20,
+  "flyingSpeed": 1.0,
+  "speed": 0.4
+}
