@@ -1,6 +1,6 @@
 {
   "immuneTypes": [
-    "minecraft:drown; minecraft:drown"
+    "minecraft:damage_type; minecraft:drown"
   ],
   "sunSensitive": true
 }
