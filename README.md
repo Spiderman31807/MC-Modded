@@ -1,1 +1,1 @@
-These are files that some of my mods will depend on. By this i mean in the Instance of Minecraft that the modded cleint is running, it will request access to a file from here.. for downloading, referencing, etc..
+These are files that some of my mods will depend on. By this i mean in the Instance of Minecraft that the modded client is running, it will request access to a file from here.. for downloading, referencing, etc..
