@@ -5,5 +5,7 @@
   "canSprint": false,
   "canSwim": false,
   "sunSensitive": true,
-  "speed": 0.4
+  "speed": {
+    "STANDING": 0.4,
+  }
 }
