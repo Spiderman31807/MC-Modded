@@ -1,6 +1,21 @@
 {
+  "version": "1.0.0",
   "immuneTypes": [
     "minecraft:damage_type; minecraft:drown"
+  ],
+  "statModifers": [
+    {
+      "target": "attribute.name.generic.attack_damage",
+      "id": "playasmob:damage",
+      "amount": 2.0,
+      "operation": "add_value"
+    },
+    {
+      "target": "attribute.name.generic.armor",
+      "id": "playasmob:armor",
+      "amount": 2.0,
+      "operation": "add_value"
+    }
   ],
   "canSprint": false,
   "canSwim": false,
