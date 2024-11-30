@@ -6,6 +6,6 @@
   "canSwim": false,
   "sunSensitive": true,
   "speed": {
-    "STANDING": 0.4,
+    "STANDING": 0.4
   }
 }
